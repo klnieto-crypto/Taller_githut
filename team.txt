@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-=======
+
 Equipo de Desarrollo
 
 Integrantes:
@@ -9,4 +8,3 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
->>>>>>> Stashed changes
