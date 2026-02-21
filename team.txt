@@ -1,0 +1,12 @@
+<<<<<<< Updated upstream
+=======
+Equipo de Desarrollo
+
+Integrantes:
+1. Karen Nieto 
+2. Isabela
+3. William
+
+Proyecto:
+Aplicación de perfiles del equipo
+>>>>>>> Stashed changes
