@@ -7,4 +7,4 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
-Versión 3.3 sistemas
+Versión 1.1 cambio de version
